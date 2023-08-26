@@ -1,4 +1,4 @@
-# Artificial Intelligence Job Simulation Project
+# Artificial Intelligence Job Simulation Project: Stock Level Prediction and Analysis
 
 This repository contains my work for the "Artificial Intelligence Job Simulation" program provided by Cognizant through Forage. The program covered various aspects of data science and artificial intelligence, including exploratory data analysis, data modeling, machine learning, and more.
 
